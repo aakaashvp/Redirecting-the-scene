@@ -1,6 +1,4 @@
 
-### EX NO : 07
-### DATE  :
 # <p align="center">Redirecting the scene<p/>
 ## Aim:
 To Redirecting the scene in the unity engine.
